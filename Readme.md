@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Марина](https://up.htmlacademy.ru/adaptive/9/user/235385).
-* Наставник: `Неизвестно`.
+* Наставник: Виктория Коваленко.
 
 ---
 
